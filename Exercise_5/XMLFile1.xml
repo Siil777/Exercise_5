@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+	<user>
+		<id>1</id>
+		<first_name>Mandi</first_name>
+		<last_name>Sparks</last_name>
+		<email>msparks0@businessweek.com</email>
+		<gender>Female</gender>
+		<country>Indonesia</country>
+		<city>Pagak Kulon</city>
+	</user>
+	<user>
+		<id>2</id>
+		<first_name>Pris</first_name>
+		<last_name>Cork</last_name>
+		<email>pcork1@seattletimes.com</email>
+		<gender>Female</gender>
+		<country>Greece</country>
+		<city>Pérama</city>
+	</user>
+	<user>
+		<id>3</id>
+		<first_name>Rodi</first_name>
+		<last_name>Abson</last_name>
+		<email>rabson2@ovh.net</email>
+		<gender>Female</gender>
+		<country>China</country>
+		<city>Liuji</city>
+	</user>
+
+
+</users>
